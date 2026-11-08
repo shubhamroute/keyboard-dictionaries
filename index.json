@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "lists": [
+    {
+      "id": "bn",
+      "language": "bn",
+      "name": "Bengali",
+      "version": 20261108,
+      "url": "lists/bn-20261108.dict.gz",
+      "bytes": 44365,
+      "sha256": "511463a87a393ec1981672e80b0ad5e1fbde4ffe921194cd3ccf5a75b3c10f06",
+      "unpacked_bytes": 75763,
+      "words_sha256": "4a01e83551f1dd127248b649c1d7134cd5ee5263407cbb839ff06370ed7c5e33"
+    },
+    {
+      "id": "kn",
+      "language": "kn",
+      "name": "Kannada",
+      "version": 20261108,
+      "url": "lists/kn-20261108.dict.gz",
+      "bytes": 34961,
+      "sha256": "428c99029b8740d56276eadabb1048f7f1aa247a00e2145e27820fd663866314",
+      "unpacked_bytes": 71536,
+      "words_sha256": "fa61ca2c10d0c43e52ede18fc47b3b059f781c96576086fdcabd56bcfb252ccf"
+    },
+    {
+      "id": "mr",
+      "language": "mr",
+      "name": "Marathi",
+      "version": 20261108,
+      "url": "lists/mr-20261108.dict.gz",
+      "bytes": 42387,
+      "sha256": "67e70109a77fb09ea4dd6b9ebd464e6763b532d3064dc806f1e26045d4dcf2d5",
+      "unpacked_bytes": 78040,
+      "words_sha256": "4d6f35a3425bb2ee766ce5d936f0bd94726bbeaa48d6b8c47c5a54047bcf8e0d"
+    },
+    {
+      "id": "ta",
+      "language": "ta",
+      "name": "Tamil",
+      "version": 20261108,
+      "url": "lists/ta-20261108.dict.gz",
+      "bytes": 45673,
+      "sha256": "873942a2289b926e3411d5e08bd7fbae8ff5e94924bf1ac321117e00808f3ce7",
+      "unpacked_bytes": 89724,
+      "words_sha256": "0034e9aa7826b4e513e3f27aa5b97cbd998ea41bbc83fe6c99bab50c193687fa"
+    },
+    {
+      "id": "te",
+      "language": "te",
+      "name": "Telugu",
+      "version": 20261108,
+      "url": "lists/te-20261108.dict.gz",
+      "bytes": 44066,
+      "sha256": "8df02aaba397a15f9f95df73518f6e69404a060be2ed4d0b7a402f55d5ec20e7",
+      "unpacked_bytes": 82120,
+      "words_sha256": "bb76ac6791d424156009bee384797fb5319cc7899e7ed137fc79cb44baceebdb"
+    }
+  ]
+}
